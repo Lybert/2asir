@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #Recibir un nombre de archivo como parámetro e indicar, imprimiendo todas
-#  las leyendas quecorrespondan, si el archivo es legible, modificable y
-#  ejecutable por el usuario.
+# las leyendas quecorrespondan, si el archivo es legible, modificable y
+# ejecutable por el usuario.
 
 ARCH=$1
 #Recortar el ls -l para los permisos del usuario -rwx-
