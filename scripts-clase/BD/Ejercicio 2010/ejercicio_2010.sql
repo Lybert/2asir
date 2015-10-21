@@ -33,5 +33,5 @@ SELECT p.Nombre "Pais", sum(e2.Hombres + e2.Mujeres) - sum(e1.Hombres + e1.Mujer
 ;
 
 
-/* En que países se ha reducido la emigracion desde 2009 /
+/* En que países se ha reducido la emigracion desde 2009 * /
 */
